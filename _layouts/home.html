@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Resume" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -14,7 +14,7 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  <iframe src="https://docs.google.com/gview?url=https://docs.google.com/document/d/15-27v7an4uvw1VpYqhAOyOO1ExAov_hN/edit?usp=sharing&ouid=115234089508813822363&rtpof=true&sd=true&embedded=true"><
+  <iframe src="https://docs.google.com/gview?url=https://docs.google.com/document/d/15-27v7an4uvw1VpYqhAOyOO1ExAov_hN/edit?usp=sharing&ouid=115234089508813822363&rtpof=true&sd=true&embedded=true"></iframe>
 </div>
 
 {% include paginator.html %}
