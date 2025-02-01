@@ -115,7 +115,8 @@ analytics:
 author:
   name             : "Sean Fulbright"
   avatar           : "/assets/Pics and docs/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Pineapple"
+  bio              : "I am graduate student studying at Old Dominion University for a masters in computer science and I have a bachelor's degree in computer science from Old Dominion University.
+  Through out my college career, I have focused on learning about AI, machine and deep learing, and data science. I know C++, Java, Python, MySQL, and JavaScript."
   location         : "Norfolk, Va"
   email            : "Snfulbright@gmail.com"
   links:
