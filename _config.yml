@@ -114,17 +114,17 @@ analytics:
 # Site Author
 author:
   name             : "Sean Fulbright"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Pics and docs/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Pineapple"
-  location         : "Somewhere"
-  email            :
+  location         : "Norfolk, Va"
+  email            : "Snfulbright@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://cs-sfulb001.github.io/cssfulb001.github.io/"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
